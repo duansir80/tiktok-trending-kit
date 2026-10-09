@@ -1,0 +1,18 @@
+{
+  "preset": "creative_center_products",
+  "url": "",
+  "query": "kaos oversize",
+  "region": "ID",
+  "headless": false,
+  "profile_dir": "tk_profile",
+  "viewport": { "width": 1400, "height": 900 },
+  "timeout_ms": 45000,
+  "wait_after_load_ms": 6000,
+  "scroll_times": 8,
+  "scroll_pause_ms": 1500,
+  "card_selector": "",
+  "max_items": 40,
+  "locale": "en-US",
+  "report_url": "",
+  "report_token": ""
+}
